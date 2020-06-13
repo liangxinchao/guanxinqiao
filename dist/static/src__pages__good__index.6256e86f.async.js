@@ -1,0 +1,1 @@
+webpackJsonp([3],{BdDL:function(e,n,t){"use strict";function c(){return u.a.createElement("div",null,"good-----")}Object.defineProperty(n,"__esModule",{value:!0});var o=t("Uifd"),u=t.n(o),d=t("Kng9"),i=(t.n(d),t("XOqZ"));t.n(i);n.default=Object(d.connect)()(c)},XOqZ:function(e,n){}});

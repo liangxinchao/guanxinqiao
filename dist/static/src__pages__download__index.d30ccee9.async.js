@@ -1,0 +1,1 @@
+webpackJsonp([4],{Hg3L:function(n,e){},"l+N4":function(n,e,t){"use strict";function c(){return u.a.createElement("div",null,"download")}Object.defineProperty(e,"__esModule",{value:!0});var o=t("Uifd"),u=t.n(o),l=t("Kng9"),a=(t.n(l),t("Hg3L"));t.n(a);e.default=Object(l.connect)()(c)}});

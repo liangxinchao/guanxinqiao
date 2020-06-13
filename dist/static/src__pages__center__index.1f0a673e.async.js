@@ -1,0 +1,1 @@
+webpackJsonp([6],{"TQ/g":function(e,n){},x8XL:function(e,n,t){"use strict";function c(){return r.a.createElement("div",null,"center")}Object.defineProperty(n,"__esModule",{value:!0});var u=t("Uifd"),r=t.n(u),i=t("Kng9"),o=(t.n(i),t("TQ/g"));t.n(o);n.default=Object(i.connect)()(c)}});
